@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAD PROJECT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Profile">Profile\n</string>
+    <string name="Category">Category\n</string>
+    <string name="developer_email">dhaval@gmail.com</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App on play Store or App store</string>
+    <string name="view_more_apps">View our Other apps</string>
+    <string name="send_feedback">Share Feedback</string>
+    <string name="privacy_policy">View Privacy Policy</string>
+    <string name="developer_name">RasoiRajaSupport</string>
+
+</resources>

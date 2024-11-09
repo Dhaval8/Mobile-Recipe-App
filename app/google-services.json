@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629168156092",
+    "project_id": "recipe-cf3dd",
+    "storage_bucket": "recipe-cf3dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629168156092:android:858e166ac420500555cfb9",
+        "android_client_info": {
+          "package_name": "com.c019shranth.madproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkVqyyLhSozNtmI1PSjhWSVhhpsOGQjZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
